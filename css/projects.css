@@ -1,3 +1,6 @@
+.project_loop {
+  padding-top: 20px;
+}
 
 .style_image {
   width: 100%;
@@ -48,10 +51,10 @@
   z-index: 1;
 }
 
-.dash_padding {
+/*.dash_padding {
   padding: 1%;
   border-bottom: 2px solid #e33d3d;
-}
+}*/
 
 .image_padding {
   width: 100%;

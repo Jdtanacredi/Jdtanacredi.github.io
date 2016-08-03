@@ -55,7 +55,7 @@ nav ul li a.hovered {
 .nav_left {
     float: left;
     width: 33.3333%;
-    background: red;
+    background: #e33d3d;
     height: 120px;
 }
 
@@ -88,7 +88,7 @@ nav ul li a.hovered {
 
 footer {
     background: #282828;
-    border-top: 2px solid red;
+    border-top: 2px solid ##e33d3d;
     overflow: hidden;
     clear: both;
     margin-bottom: 0;
