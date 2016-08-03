@@ -43,7 +43,8 @@ nav ul li:last-child {
 
 nav ul li a {
     text-decoration: none;
-    color: white;
+    color: #fff;
+    cursor: pointer;
 }
 
 nav ul li a:hover,

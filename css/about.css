@@ -13,6 +13,10 @@
   float: left;
 }
 
+.about h1 {
+  font-size: 42px;
+}
+
 @media screen and (max-width: 700px), screen and (max-device-width: 700px) {
   .about_image {
     background: url('../images/about_mobile.png') no-repeat;
@@ -25,5 +29,7 @@
     width: 90%;
     margin: 10% 5%;
   }
-
+  .about h1 {
+    font-size: 32px;
+  }
 }
